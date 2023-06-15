@@ -93,6 +93,12 @@ button span {
   vertical-align: auto;
 }
 
+.bottomimg {
+  height: 150px;
+  width: 165px;
+  padding: 15px;
+}
+
 #screenSizeMessage {
   display: none;
 }
